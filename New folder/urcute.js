@@ -1,0 +1,6 @@
+alert("Heyy there cutie")
+alert("how are you?")
+alert("Hope you having a good day...")
+alert("Just wanna tell you how beautifull you are")
+alert("Dont forget to smile, i like it when you smile")
+alert("If you wanna talk, just tell me")
